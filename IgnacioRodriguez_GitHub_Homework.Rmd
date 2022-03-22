@@ -1,0 +1,22 @@
+---
+title: "IgnacioRodriguez_GitHub_Homework"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ignacio Rodriguez - Homework #15
+
+```{r}
+
+X<- rnorm(100)
+hist(X)
+```
+
+\newpage
+
+
+![](Carl-Friedrich-Gauss-engraving.webp){width=20%}
+Gauss was a German mathematician known for several different contributions. Including: number theory, geometry, probability theory, among others.
